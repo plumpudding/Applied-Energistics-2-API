@@ -36,6 +36,7 @@ public class Blocks
 	public AEItemDefinition blockCharger;
 	public AEItemDefinition blockTinyTNT;
 	public AEItemDefinition blockSecurity;
+	public AEItemDefinition blockTeleporter;
 
 	/*
 	 * Quantum Network Bridge
